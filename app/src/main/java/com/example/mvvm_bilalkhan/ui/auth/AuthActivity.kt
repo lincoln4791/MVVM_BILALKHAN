@@ -1,4 +1,4 @@
-package com.example.mvvm_bilalkhan.auth
+package com.example.mvvm_bilalkhan.ui.auth
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
